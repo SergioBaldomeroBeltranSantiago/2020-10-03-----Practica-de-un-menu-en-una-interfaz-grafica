@@ -1,0 +1,10 @@
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\bin\Debug\Tarea 02.exe.config
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\bin\Debug\Tarea 02.exe
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\bin\Debug\Tarea 02.pdb
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\obj\Debug\Tarea 02.csprojAssemblyReference.cache
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\obj\Debug\Tarea_02.Form1.resources
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\obj\Debug\Tarea_02.Properties.Resources.resources
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\obj\Debug\Tarea 02.csproj.GenerateResource.cache
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\obj\Debug\Tarea 02.csproj.CoreCompileInputs.cache
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\obj\Debug\Tarea 02.exe
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea 02\Tarea 02\obj\Debug\Tarea 02.pdb
